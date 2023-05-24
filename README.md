@@ -1,5 +1,6 @@
 #Primer parcial spd
-En el codigo delproyecto de spd como primer paso lo que hago es definir todas las conexiones poniendo un nombre el cual las diferencia de cada una 
+
+En el codigo del proyecto de spd como primer paso lo que hago es definir todas las conexiones poniendo un nombre el cual las diferencia de cada una 
 ```
 #define ledVerde 12
 #define ledRojo 13
